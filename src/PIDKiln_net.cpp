@@ -2,7 +2,7 @@
 ** Network related functions
 **
 */
-
+#include <Arduino.h>
 #define DEFAULT_AP "PIDKiln_AP"
 #define DEFAULT_PASS "hotashell"
 

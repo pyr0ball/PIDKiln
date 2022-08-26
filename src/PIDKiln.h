@@ -1,3 +1,4 @@
+#include <Arduino.h>
 #include <PID_v1.h>
 #include <Syslog.h>
 

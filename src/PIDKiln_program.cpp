@@ -2,6 +2,7 @@
 ** Pidkiln program routines - main program functions and all PID magic
 **
 */
+#include <Arduino.h>
 #include <PID_v1.h>
 #include <SPI.h>
 

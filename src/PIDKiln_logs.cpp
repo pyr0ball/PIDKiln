@@ -2,7 +2,7 @@
 ** Logging functionality
 **
 */
-
+#include <Arduino.h>
 double EnW_last=0;    // last energy consumption for csv report
 
 
