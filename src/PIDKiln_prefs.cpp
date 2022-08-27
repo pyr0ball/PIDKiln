@@ -3,7 +3,6 @@
 **
 */
 
-#include <Arduino.h>
 // Find and change item in preferences
 //
 boolean Change_prefs_value(String item, String value){
